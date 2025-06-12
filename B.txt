@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ashim
-=======
 ashim is a hero.
->>>>>>> parent of eec2d70 (Update B.txt)
